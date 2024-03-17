@@ -26,8 +26,8 @@ Used also:
 
 To run this notebook interactively:
 
-1. Download this repository in a zip file by clicking on this [link](https://github.com/Zasada94/vod_data_analysis/achive.master.zip) or execute this from the terminal:
-`git clone [https://github.com/Zasada94/vod_data_analysis.git]`
+1. Download this repository in a zip file by clicking on this [link](https://github.com/Zasada94/vod_data_analysis/achive/master.zip) or execute this from the terminal:
+`git clone https://github.com/Zasada94/vod_data_analysis.git`
 2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
 3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
 4. Activate the environment with `source env/bin/activate`.
