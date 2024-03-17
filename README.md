@@ -4,7 +4,6 @@
 - [Technologies](#technologies)
 - [How to install](#how-to-install)
 - [Screenshots](#screenshots)
-- [Live](#live-star2)
 
 ## General info
 
