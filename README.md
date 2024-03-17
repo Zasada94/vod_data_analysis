@@ -24,4 +24,5 @@ Used also:
 
 ## Screenshots
 
-![screenshot](./screenshots/screenshot01.jpg)
+![screenshot](./screenshots/1.png)
+![screenshot](./screenshots/2.png)
